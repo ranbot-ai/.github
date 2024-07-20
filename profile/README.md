@@ -12,5 +12,5 @@ For general inquiries, please reach out to us at encore.shao[at]gmail.com.
 
 🌐 Follow Us:
 
-- LinkedIn: [RanBOT LinkedIn](https://linkedin.com/company/ranbot-ai)
+- LinkedIn: [RanBOT](https://linkedin.com/company/ranbot-ai)
 - Twitter: [@RanBOT](https://x.com/RanbotAI)
