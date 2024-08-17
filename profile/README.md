@@ -7,7 +7,7 @@ RanBOT leverages cutting-edge AI and machine learning technologies to convert un
 Contact Us
 
 📧 Email:
-For general inquiries, please reach out to us at encore.shao[at]gmail.com.
+For general inquiries, please reach out to us at **encore.shao[at]gmail.com**.
 
 
 🌐 Follow Us:
