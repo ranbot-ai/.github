@@ -12,5 +12,6 @@ For general inquiries, please reach out to us at **encore.shao[at]gmail.com**.
 
 🌐 Follow Us:
 
-- LinkedIn: [RanBOT](https://linkedin.com/company/ranbot-ai)
-- Twitter: [@RanBOT](https://x.com/RanbotAI)
+- LinkedIn: [@ranbot-ai](https://linkedin.com/company/ranbot-ai)
+- Twitter: [@RanbotAI](https://x.com/RanbotAI)
+- Tiktok: [@ranbotai](https://www.tiktok.com/@ranbotai)
